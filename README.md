@@ -1,7 +1,7 @@
-geocoder
+Diffusion Tubes
 ==============================
 
-batch geocoding
+49 LTN related diffusion tube readings from September 2021, batch geocoded using `geopy nominatim` via the notebooks section, and mapped in the `src/visualization` section.
 
 Project Organization
 ------------
