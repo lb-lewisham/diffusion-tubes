@@ -1,7 +1,16 @@
-geocoder
-==============================
+geocoder for diffusion tube locations
+=====================================
+ 
+This is an important output from LTN-related comms - part of our narrative of monitoring - 'today we are launching a new map where you can see how much the AQ has improved in YOUR area' etc.
 
-batch geocoding
+Current air quality objective (AQO) = 40 micrograms per cubic metre of air (μg m-3)) 
+
+World Health Organization(WHO) Air Quality Guideline (AQG) levels = 10μg m-3 (revised in September 2021)
+
+https://lewisham.gov.uk/myservices/environment/air-pollution/read-our-air-quality-action-plan-and-other-reports
+ 
+https://lewisham.gov.uk/-/media/air-quality-analysis.ashx
+ 
 
 Project Organization
 ------------
