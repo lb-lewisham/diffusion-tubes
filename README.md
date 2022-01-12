@@ -13,7 +13,182 @@ https://lewisham.gov.uk/-/media/air-quality-analysis.ashx
 
 https://lewisham.gov.uk/myservices/parking/schoolstreets/schools-streets-programme-streets-outside-schools
 
-<table class="markup-table telerik-reTable-1" style="border-spacing:0px;"> <tbody class="markup-tbody"> <tr class="markup-tr telerik-reTableHeaderRow-1" style="height:22px;"> <td class="markup-td telerik-reTableHeaderFirstCol-1"><strong class="markup-strong">School</strong></td> <td class="markup-td telerik-reTableHeaderOddCol-1"><strong class="markup-strong">Street</strong></td> <td class="markup-td telerik-reTableHeaderEvenCol-1"><strong class="markup-strong">Between Junctions</strong></td> <td class="markup-td telerik-reTableHeaderLastCol-1"><strong class="markup-strong">Operation times</strong></td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Adamsrill</td> <td class="markup-td telerik-reTableOddCol-1">Adamsrill Road</td> <td class="markup-td telerik-reTableEvenCol-1">Fairwyn Road and Champion Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 3.00-4.00</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">All Saints</td> <td class="markup-td telerik-reTableOddCol-1">Blackheath Vale</td> <td class="markup-td telerik-reTableEvenCol-1">Cul-de-sac – Entry west of Duke Humphrey Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.00 and 3.00-4.00</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Ashmead</td> <td class="markup-td telerik-reTableOddCol-1">Ashmead Road – One Way</td> <td class="markup-td telerik-reTableEvenCol-1">Westbound entry from St John’s Vale</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 3.00-4.00</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Brindishe Green</td> <td class="markup-td telerik-reTableOddCol-1">Beacon Rd &amp; Ardmere Rd</td> <td class="markup-td telerik-reTableEvenCol-1">Eastbound entry – from Hither Green Lane and Beacon Road and Ardmere Road westbound from Nightingale Grove</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Conisborough College</td> <td class="markup-td telerik-reTableOddCol-1">Access Road/ Thornsbeach Road</td> <td class="markup-td telerik-reTableEvenCol-1">Cul-de-sac – Entry south of Bellingham Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.00-9.15 and 2.30-4.00</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:61px;"> <td class="markup-td telerik-reTableFirstCol-1">Coopers Lane Primary</td> <td class="markup-td telerik-reTableOddCol-1">Pragnell Rd</td> <td class="markup-td telerik-reTableEvenCol-1">Southbound entry from Kingsand Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Thursday 8.15-9.30 and 2.30-3.30 and Fri 8.15-9.30 and 1.30-2.30</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:61px;"> <td class="markup-td telerik-reTableFirstCol-1">Dalmain</td> <td class="markup-td telerik-reTableOddCol-1">Grove Close</td> <td class="markup-td telerik-reTableEvenCol-1">Grove Close westbound from Brockley Rise&nbsp;</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.30-3.30</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:41px;"> <td class="markup-td telerik-reTableFirstCol-1">Eliot Bank</td> <td class="markup-td telerik-reTableOddCol-1">Thorpewood Ave</td> <td class="markup-td telerik-reTableEvenCol-1">Eastbound entry from Kirkdale</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:41px;"> <td class="markup-td telerik-reTableFirstCol-1">Forster Park</td> <td class="markup-td telerik-reTableOddCol-1">Boundfield Road</td> <td class="markup-td telerik-reTableEvenCol-1">Between Castillon Road &amp; Wingrove Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Thursday 8.30-9.30 and 3.00-4.00 and Fri 8.30-9.30 and 2.00-3.00</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Gordonbrock</td> <td class="markup-td telerik-reTableOddCol-1">Amyruth Rd</td> <td class="markup-td telerik-reTableEvenCol-1">Northbound entry from Chudleigh Rd</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">'Haberdashers' Hatcham College / Hatcham Temple Grove</td> <td class="markup-td telerik-reTableOddCol-1">Pepys Road &amp; Pendrell Road</td> <td class="markup-td telerik-reTableEvenCol-1">Pepys Road southbound from Vesta Road, Pendrell Road westbound from Wallbutton Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.00-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:64px;"> <td class="markup-td telerik-reTableFirstCol-1">Haseltine</td> <td class="markup-td telerik-reTableOddCol-1">Bell Green Lane</td> <td class="markup-td telerik-reTableEvenCol-1">Southbound entry from Stanton Way and northbound entry just south of Haseltine Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 2.45-4.00</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Holbeach</td> <td class="markup-td telerik-reTableOddCol-1">Doggett Road</td> <td class="markup-td telerik-reTableEvenCol-1">Holbeach Road and Bradgate Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.30 and 2.30-3.45</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">John Ball</td> <td class="markup-td telerik-reTableOddCol-1">Baizdon Road</td> <td class="markup-td telerik-reTableEvenCol-1">West of Hurren Close along School frontage</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.15 and 2.45-3.30</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Kilmorie</td> <td class="markup-td telerik-reTableOddCol-1">Kilmorie Rd</td> <td class="markup-td telerik-reTableEvenCol-1">Northbound entry from Woolstone Rd</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Marvels Lane</td> <td class="markup-td telerik-reTableOddCol-1">Riddons Road</td> <td class="markup-td telerik-reTableEvenCol-1">Riddons Road southbound from Dyneley Road &amp; northbound from Claybridge Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.30 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:85px;"> <td class="markup-td telerik-reTableFirstCol-1">Myatt Garden</td> <td class="markup-td telerik-reTableOddCol-1">One Way Section of Upper Brockley Rd leading into Rokeby Road &amp;</td> <td class="markup-td telerik-reTableEvenCol-1">Northbound entry from Ashby Road to A20 Lewisham Way</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.45 and 2.45-4.00</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:64px;"> <td class="markup-td telerik-reTableFirstCol-1">Myatt Garden</td> <td class="markup-td telerik-reTableOddCol-1">One Way Section in Upper Brockley Rd from A20 Lewisham Way</td> <td class="markup-td telerik-reTableEvenCol-1">Southbound entry from Lewisham Way Service Road to Ashby Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.30-9.45 and 2.45-4.00</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Prendergast Ladywell Fields</td> <td class="markup-td telerik-reTableOddCol-1">Ewhurst Road</td> <td class="markup-td telerik-reTableEvenCol-1">Cul-de-sac – Entry east of Manwood Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.00-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:41px;"> <td class="markup-td telerik-reTableFirstCol-1">Rathfern</td> <td class="markup-td telerik-reTableOddCol-1">Rathfern Road</td> <td class="markup-td telerik-reTableEvenCol-1">Northbound entry from Catford Hill &amp; Southbound from Stanstead Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:41px;"> <td class="markup-td telerik-reTableFirstCol-1">Rathfern</td> <td class="markup-td telerik-reTableOddCol-1"><span class="markup-span">Rathfern Road </span></td> <td class="markup-td telerik-reTableEvenCol-1">Rathfern Road junction with Stanstead Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.45-3.45<br class="markup-br"> </td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:64px;"> <td class="markup-td telerik-reTableFirstCol-1">Rushey Green</td> <td class="markup-td telerik-reTableOddCol-1">Culverley Rd &amp;</td> <td class="markup-td telerik-reTableEvenCol-1">East of Service Road to Apex Apartments to West of junction with Thornsbeach Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableOddRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">Rushey Green</td> <td class="markup-td telerik-reTableOddCol-1">Penerley Rd</td> <td class="markup-td telerik-reTableEvenCol-1">From Dental Practice to North of junction with Bargery Rd</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 2.45-3.45</td> </tr> <tr class="markup-tr telerik-reTableEvenRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFirstCol-1">St Bartholomews</td> <td class="markup-td telerik-reTableOddCol-1">The Peak</td> <td class="markup-td telerik-reTableEvenCol-1">Westbound from Sydenham Park Road</td> <td class="markup-td telerik-reTableLastCol-1">Monday-Friday 8.15-9.15 and 3.00-4.00</td> </tr> <tr class="markup-tr telerik-reTableFooterRow-1" style="height:43px;"> <td class="markup-td telerik-reTableFooterFirstCol-1">St William of York</td> <td class="markup-td telerik-reTableFooterOddCol-1">Brockley Park</td> <td class="markup-td telerik-reTableFooterEvenCol-1">42m east of Brockley Rise to 30m west of Segal Close</td> <td class="markup-td telerik-reTableFooterLastCol-1">Monday-Friday 8.30-9.15 and 2.45-3.30</td> </tr> </tbody> </table>
+<table>
+    <tbody>
+        <tr>
+            <td>School</td>
+            <td>Street</td>
+            <td>Between
+                    Junctions</td>
+            <td>Operation times
+            </td>
+        </tr>
+        <tr>
+            <td>Adamsrill</td>
+            <td>Adamsrill Road</td>
+            <td>Fairwyn Road and Champion Road</td>
+            <td>Monday-Friday 8.15-9.15 and 3.00-4.00</td>
+        </tr>
+        <tr>
+            <td>All Saints</td>
+            <td>Blackheath Vale</td>
+            <td>Cul-de-sac – Entry west of Duke Humphrey Road</td>
+            <td>Monday-Friday 8.15-9.00 and 3.00-4.00</td>
+        </tr>
+        <tr>
+            <td>Ashmead</td>
+            <td>Ashmead Road – One Way</td>
+            <td>Westbound entry from St John’s Vale</td>
+            <td>Monday-Friday 8.30-9.30 and 3.00-4.00</td>
+        </tr>
+        <tr>
+            <td>Brindishe Green</td>
+            <td>Beacon Rd &amp; Ardmere Rd</td>
+            <td>Eastbound entry – from Hither Green Lane and Beacon Road and
+                Ardmere Road westbound from Nightingale Grove</td>
+            <td>Monday-Friday 8.30-9.30 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Conisborough College</td>
+            <td>Access Road/ Thornsbeach Road</td>
+            <td>Cul-de-sac – Entry south of Bellingham Road</td>
+            <td>Monday-Friday 8.00-9.15 and 2.30-4.00</td>
+        </tr>
+        <tr>
+            <td>Coopers Lane Primary</td>
+            <td>Pragnell Rd</td>
+            <td>Southbound entry from Kingsand Road</td>
+            <td>Monday-Thursday 8.15-9.30 and 2.30-3.30 and Fri 8.15-9.30 and
+                1.30-2.30</td>
+        </tr>
+        <tr>
+            <td>Dalmain</td>
+            <td>Grove Close</td>
+            <td>Grove Close westbound from Brockley Rise&nbsp;</td>
+            <td>Monday-Friday 8.15-9.15 and 2.30-3.30</td>
+        </tr>
+        <tr>
+            <td>Eliot Bank</td>
+            <td>Thorpewood Ave</td>
+            <td>Eastbound entry from Kirkdale</td>
+            <td>Monday-Friday 8.30-9.30 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Forster Park</td>
+            <td>Boundfield Road</td>
+            <td>Between Castillon Road &amp; Wingrove Road</td>
+            <td>Monday-Thursday 8.30-9.30 and 3.00-4.00 and Fri 8.30-9.30 and
+                2.00-3.00</td>
+        </tr>
+        <tr>
+            <td>Gordonbrock</td>
+            <td>Amyruth Rd</td>
+            <td>Northbound entry from Chudleigh Rd</td>
+            <td>Monday-Friday 8.30-9.30 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>'Haberdashers' Hatcham College / Hatcham Temple Grove</td>
+            <td>Pepys Road &amp; Pendrell Road</td>
+            <td>Pepys Road southbound from Vesta Road, Pendrell Road
+                westbound from Wallbutton Road</td>
+            <td>Monday-Friday 8.00-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Haseltine</td>
+            <td>Bell Green Lane</td>
+            <td>Southbound entry from Stanton Way and northbound entry just
+                south of Haseltine Road</td>
+            <td>Monday-Friday 8.30-9.30 and 2.45-4.00</td>
+        </tr>
+        <tr>
+            <td>Holbeach</td>
+            <td>Doggett Road</td>
+            <td>Holbeach Road and Bradgate Road</td>
+            <td>Monday-Friday 8.15-9.30 and 2.30-3.45</td>
+        </tr>
+        <tr>
+            <td>John Ball</td>
+            <td>Baizdon Road</td>
+            <td>West of Hurren Close along School frontage</td>
+            <td>Monday-Friday 8.30-9.15 and 2.45-3.30</td>
+        </tr>
+        <tr>
+            <td>Kilmorie</td>
+            <td>Kilmorie Rd</td>
+            <td>Northbound entry from Woolstone Rd</td>
+            <td>Monday-Friday 8.15-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Marvels Lane</td>
+            <td>Riddons Road</td>
+            <td>Riddons Road southbound from Dyneley Road &amp; northbound
+                from Claybridge Road</td>
+            <td>Monday-Friday 8.30-9.30 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Myatt Garden</td>
+            <td>One Way Section of Upper Brockley Rd leading into Rokeby Road
+                &amp;</td>
+            <td>Northbound entry from Ashby Road to A20 Lewisham Way</td>
+            <td>Monday-Friday 8.30-9.45 and 2.45-4.00</td>
+        </tr>
+        <tr>
+            <td>Myatt Garden</td>
+            <td>One Way Section in Upper Brockley Rd from A20 Lewisham Way
+            </td>
+            <td>Southbound entry from Lewisham Way Service Road to Ashby Road
+            </td>
+            <td>Monday-Friday 8.30-9.45 and 2.45-4.00</td>
+        </tr>
+        <tr>
+            <td>Prendergast Ladywell Fields</td>
+            <td>Ewhurst Road</td>
+            <td>Cul-de-sac – Entry east of Manwood Road</td>
+            <td>Monday-Friday 8.00-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Rathfern</td>
+            <td>Rathfern Road</td>
+            <td>Northbound entry from Catford Hill &amp; Southbound from
+                Stanstead Road</td>
+            <td>Monday-Friday 8.15-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Rathfern</td>
+            <td><span>Rathfern Road </span></td>
+            <td>Rathfern Road junction with Stanstead Road</td>
+            <td>Monday-Friday 8.15-9.15 and 2.45-3.45<br>
+            </td>
+        </tr>
+        <tr>
+            <td>Rushey Green</td>
+            <td>Culverley Rd &amp;</td>
+            <td>East of Service Road to Apex Apartments to West of junction
+                with Thornsbeach Road</td>
+            <td>Monday-Friday 8.15-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>Rushey Green</td>
+            <td>Penerley Rd</td>
+            <td>From Dental Practice to North of junction with Bargery Rd
+            </td>
+            <td>Monday-Friday 8.15-9.15 and 2.45-3.45</td>
+        </tr>
+        <tr>
+            <td>St Bartholomews</td>
+            <td>The Peak</td>
+            <td>Westbound from Sydenham Park Road</td>
+            <td>Monday-Friday 8.15-9.15 and 3.00-4.00</td>
+        </tr>
+        <tr>
+            <td>St William of York</td>
+            <td>Brockley Park</td>
+            <td>42m east of Brockley Rise to 30m west of Segal Close
+            </td>
+            <td>Monday-Friday 8.30-9.15 and 2.45-3.30</td>
+        </tr>
+    </tbody>
+</table>
 
 diffusion tubes 
 ---------------
