@@ -246,8 +246,12 @@ Project Organization
     │   │   ├── predict_model.py
     │   │   └── train_model.py
     │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
+    │   └── visualization         <- Scripts to create exploratory and results oriented visualizations
+    │       ├── dist              <- webmap for sharing of the data
+    │       ├── node_modules      <- contains gh-pages package for deploying map to github pages
+    │       ├── package-lock.json <- node packages
+    │       ├── package.json      <- node package list and gh-pages deployment script
+    │       └── visualize.py      <- unused in this project
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
