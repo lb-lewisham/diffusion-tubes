@@ -1,7 +1,5 @@
 geocoder for diffusion tube locations
 =====================================
- 
-This is an important output from LTN-related comms - part of our narrative of monitoring - 'today we are launching a new map where you can see how much the AQ has improved in YOUR area' etc.
 
 Current air quality objective (AQO) = 40 micrograms per cubic metre of air (μg m-3)) (assuming this is NO2 per cubic metre (μgm-3))
 
