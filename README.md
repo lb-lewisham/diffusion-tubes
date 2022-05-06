@@ -1,7 +1,7 @@
 geocoder for diffusion tube locations
 =====================================
 
-Current air quality objective (AQO) = 40 micrograms per cubic metre of air (μg m-3)) (assuming this is NO2 per cubic metre (μgm-3))
+Current air quality objective (AQO) = 40 micrograms per cubic metre of air (μg m-3) ([DEFRA Air Quality Standards Regulations 2010](https://uk-air.defra.gov.uk/air-pollution/uk-eu-limits))
 
 World Health Organization(WHO) Air Quality Guideline (AQG) levels = 10μg m-3 (revised in September 2021)
 
